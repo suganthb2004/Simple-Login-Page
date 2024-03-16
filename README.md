@@ -1,6 +1,6 @@
 The Simple Login Page project is a straightforward web application designed to demonstrate the basic functionality of user authentication. It provides users with a simple interface to log in using their credentials. This project is ideal for beginners learning about web development and authentication processes.
 
-Features:
+**Features:**
 1. User Authentication: Users can log in using their username and password.
 2. User Registration: New users can register by providing a username and password.
 3. Session Management: Sessions are managed securely to keep users authenticated during their browsing session.
