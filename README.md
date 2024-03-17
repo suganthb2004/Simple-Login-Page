@@ -32,9 +32,6 @@ The Simple Login Page project is a straightforward web application designed to d
 **Contributing:**
 Contributions to this project are welcome! If you have any ideas for improvements or feature suggestions, feel free to fork the repository, make your changes, and submit a pull request.
 
-**License:**
-This project is licensed under the [License Name] license. See the LICENSE file for more details.
-
 **Author:**
 Suganth B
 
